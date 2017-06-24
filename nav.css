@@ -1,0 +1,15 @@
+nav {
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: non;
+}
+
+nav a:hover {
+  background: grey;
+}
