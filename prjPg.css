@@ -4,6 +4,13 @@
   width: 800px;
   float: right;
 }
+
+.pong {
+  position: relative;
+  top: -20px;
+  width: 800px;
+  float: left;
+}
 h1 {
   font-family: 'Press Start 2P', cursive;
   color: black;
