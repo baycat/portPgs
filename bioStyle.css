@@ -12,6 +12,7 @@ body {
 p {
   font-family: 'Press Start 2P', cursive;
   color: black;
+  line-height: 40px;
 }
 
 .lk {
@@ -28,4 +29,8 @@ p {
 img {
   width:20%;
   height:20%;
+}
+
+ul {
+  font-family: 'Press Start 2P', cursive;
 }
