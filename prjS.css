@@ -1,3 +1,4 @@
+<<<<<<< HEAD:prjPg.css
 .capt {
   position: relative;
   top: -30px;
@@ -82,3 +83,43 @@ user agent stylesheet
 input, textarea, select, button, meter, progress {
     -webkit-writing-mode: horizontal-tb;
 }
+=======
+.capt {
+  position: relative;
+  top: -30px;
+  width: 800px;
+  float: right;
+}
+
+.pong {
+  position: relative;
+  top: -20px;
+  width: 800px;
+  float: left;
+}
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: black;
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+  font-size: 300%;
+}
+
+body {
+  background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0137/5825/rrobot_circut_ltpink_shop_preview.png")
+}
+
+p {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 150%;
+  color: black;
+}
+
+ul {
+  font-family: 'Press Start 2P', cursive;
+}
+
+searchy.resize {
+max-width:50%;
+max-height:50%;
+}
+>>>>>>> 31f6bbabb22b8968c913b5ab830d88bc63bdfe0e:prjS.css
