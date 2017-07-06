@@ -18,12 +18,12 @@ style {
 ul {
   font-family: 'Press Start 2P', cursive;
 }
-searchy.resize {
-    width:100px;
-    height: auto;
+.searchy {
+    width: 10%;
+    height: 10%;
 }
 
 .mp {
-  height: 50%;
-  width: 50%;
+  height: 30%;
+  width: 30%;
 }
