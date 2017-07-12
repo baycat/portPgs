@@ -42,7 +42,7 @@ ul {
 }
 
 .dd {
-  width: 60%;
-  height: 60%;
-  transform: translate(100px, 400px);
+  width: 30%;
+  height: 30%;
+  transform: translate(400px, 400px);
 }
