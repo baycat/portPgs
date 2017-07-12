@@ -82,12 +82,8 @@ input, textarea, select, button, meter, progress {
   height:10%;
 }
 
-.yeet {
-  width: 10%;
-  height: 10%;
-}
-
 .prtwrs {
-  width: 25%;
-  height: 25%;
+  width: 30%;
+  height: 30%;
+  transform: rotate(90deg) translate(400px, -800px);
 }
