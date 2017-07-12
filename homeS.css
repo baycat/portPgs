@@ -28,6 +28,10 @@ ul {
   width: 20%;
 }
 
+.r {
+  height: 12%;
+  width: 12%;
+}
 .rst {
   transform: rotate(90deg) translate(300px, -200px);
 }
