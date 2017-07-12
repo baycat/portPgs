@@ -44,5 +44,5 @@ ul {
 .dd {
   width: 30%;
   height: 30%;
-  transform: translate(900px, 1500px);
+  transform: translate(900px, -1500px);
 }
