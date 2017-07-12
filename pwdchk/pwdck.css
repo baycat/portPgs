@@ -1,0 +1,46 @@
+body {
+  font-family: 'VT323', monospace;
+  background-color: black;
+  padding: 20px 70px 20px 70px;
+  width: 75%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  font-family: 'VT323', monospace;
+  background-color: light blue;
+  border: none;
+  color: black;
+  padding: 5px 10px 5px 10px;
+}
+
+div {
+  background-color: blue;
+  padding: 20px;
+}
+
+p {
+  font-family: 'VT323', monospace;
+  color: black;
+}
+
+h1 {
+  font-family: 'VT323', monospace;
+  color: white;
+  text-align: center;
+}
+
+.content {
+  border: 2px;
+  background-color: white;
+  height: 250px;
+  padding: 30px 50px 30px 50px;
+}
+
+.output {
+  font-family: 'VT323', monospace;
+  background-color: white;
+  color: black;
+}
