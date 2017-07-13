@@ -41,12 +41,12 @@ ul {
   width: 20%;
   height: 20%;
   transform-origin: center;
-  transform: translateX(10vw) translateY(-85vh);
+  transform: translateX(5vw) translateY(-75vh);
 }
 
 .dd {
   width: 15%;
   height: 15%;
   transform-origin: center;
-  transform: translateX(70vw) translateY(-105vh);
+  transform: translateX(75vw) translateY(-85vh);
 }
