@@ -48,5 +48,5 @@ ul {
   width: 30%;
   height: 30%;
   transform-origin: center;
-  transform: translateX(0vw) translateY(-300vh);
+  transform: translateX(0vw) translateY(-100vh);
 }
