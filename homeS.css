@@ -1,6 +1,6 @@
 h1 {
   font-family: 'Press Start 2P', cursive;
-  color:  red;
+  color:  blue;
   text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
   font-size: 300%;
 }
@@ -41,12 +41,12 @@ ul {
   width: 25%;
   height: 25%;
   transform-origin: center;
-  transform: translateX(25vw) translateY(-100vh);
+  transform: translateX(10vw) translateY(-100vh);
 }
 
 .dd {
   width: 20%;
   height: 20%;
   transform-origin: center;
-  transform: translateX(60vw) translateY(-145vh);
+  transform: translateX(40vw) translateY(-125vh);
 }
