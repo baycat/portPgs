@@ -34,7 +34,7 @@ ul {
   height: 20%;
   width: 20%;
   transform-origin: center;
-  transform: rotate(90deg) translateX(-50vw) translateY(0vh);
+  transform: rotate(90deg) translateX(-40vw) translateY(50vh);
 }
 
 .cap {
@@ -48,5 +48,5 @@ ul {
   width: 30%;
   height: 30%;
   transform-origin: center;
-  transform: translateX(10vw) translateY(-100vh);
+  transform: translateX(500vw) translateY(3000vh);
 }
