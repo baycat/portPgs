@@ -19,31 +19,35 @@ ul {
   font-family: 'Press Start 2P', cursive;
 }
 .searchy {
-    width: 5%;
-    height: 5%;
+  width: 5%;
+  height: 5%;
 }
 
 .mp {
   height: 30%;
   width: 30%;
+  transform-origin: center;
   transform: translateX(0vw) translateY(2vh);
 }
 
 .r {
   height: 20%;
   width: 20%;
+  transform-origin: center;
   transform: translateX(-10%, 5%);
 }
 
 .cap {
   width: 25%;
   height: 25%;
+  transform-origin: center;
   transform: translate(10%, 10%);
 }
 
 .dd {
   width: 30%;
   height: 30%;
+  transform-origin: center;
   transform: translate(-50%, -90%);
 
 }
