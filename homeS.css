@@ -34,14 +34,14 @@ ul {
   height: 20%;
   width: 20%;
   transform-origin: center;
-  transform: rotate(90deg) translateX(-25vw) translateY(0vh);
+  transform: rotate(90deg) translateX(-50vw) translateY(0vh);
 }
 
 .cap {
   width: 25%;
   height: 25%;
   transform-origin: center;
-  transform: translateX(0vw) translateY(0vh);
+  transform: translateX(5vw) translateY(30vh);
 }
 
 .dd {
