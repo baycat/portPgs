@@ -38,7 +38,7 @@ ul {
 .cap {
   width: 25%;
   height: 25%;
-  transform: translateX(0vw) translateY(2vh);
+  transform: translateX(10vw) translateY(2vh);
 }
 
 .dd {
