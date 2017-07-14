@@ -1,6 +1,6 @@
 h1 {
   font-family: 'Press Start 2P', cursive;
-  color:  cyan;
+  color:  blue;
   text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
   font-size: 300%;
 }
@@ -34,19 +34,19 @@ ul {
   height: 17%;
   width: 17%;
   transform-origin: center;
-  transform: rotate(90deg) translateX(-5vw) translateY(5vh);
+  transform: rotate(90deg) translateX(-10vw) translateY(10vh);
 }
 
 .cap {
   width: 20%;
   height: 20%;
   transform-origin: center;
-  transform: translateX(15vw) translateY(-81vh);
+  transform: translateX(15vw) translateY(-80vh);
 }
 
 .dd {
   width: 15%;
   height: 15%;
   transform-origin: center;
-  transform: translateX(64vw) translateY(-98vh);
+  transform: translateX(62vw) translateY(-97.5vh);
 }
