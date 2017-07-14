@@ -26,4 +26,5 @@ ul {
 .conme {
   width: 13%;
   height: 13%;
+  transform: translate (0px, -10px)
 }
